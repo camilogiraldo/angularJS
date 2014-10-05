@@ -10,5 +10,4 @@
         price: 2.95,
         description: 'A dodecahedron is a gem',
     }
-    
 })();
